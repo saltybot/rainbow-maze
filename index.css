@@ -1,0 +1,26 @@
+#game {
+    position: relative;
+    top: 0;
+    left: 0;
+    margin: 30px;
+}
+#maze {
+    position: relative;
+    top: 0;
+    left: 0;
+}
+#character {
+    position: absolute;
+    top: -30px;
+    left: 55px;
+}
+#guard {
+    position: absolute;
+    top: 370px;
+    left: 620px;
+}
+#gold {
+    position: absolute;
+    top: 510px;
+    left: 645px;
+}

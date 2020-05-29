@@ -1,0 +1,7 @@
+* mirrored character images for walking left vs right
+* animated clock
+* guard animate up and down
+* make unicorn magically appear
+* find helmet and wear it
+* press 's' to search for unicorn
+* cut up new smaller assets
