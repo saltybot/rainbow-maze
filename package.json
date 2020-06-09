@@ -1,0 +1,19 @@
+{
+  "name": "rainbow-maze",
+  "version": "1.0.0",
+  "description": "Pean's rainbow maze game",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/saltybot/rainbow-maze.git"
+  },
+  "author": "saltybot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltybot/rainbow-maze/issues"
+  },
+  "homepage": "https://github.com/saltybot/rainbow-maze#readme"
+}
