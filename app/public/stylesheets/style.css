@@ -14,6 +14,11 @@
     top: -30px;
     left: 55px;
 }
+#unicorn {
+    position: absolute;
+    top: 270px;
+    left: 220px;
+}
 #guard {
     position: absolute;
     top: 370px;
@@ -23,4 +28,9 @@
     position: absolute;
     top: 510px;
     left: 645px;
+}
+#helmet {
+    position: absolute;
+    top: 510px;
+    left: 145px;
 }
