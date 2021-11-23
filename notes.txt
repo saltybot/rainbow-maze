@@ -1,7 +1,25 @@
-* mirrored character images for walking left vs right
-* animated clock
-* guard animate up and down
-* make unicorn magically appear
-* find helmet and wear it
-* press 's' to search for unicorn
-* cut up new smaller assets
+## Dev notes
+* Login to start the game:
+    * email: saltybot_and_squirt_www.com.
+    * password: row-leg1
+    * name: <write your name then write 2 things you like in the world>
+    * click next to choose your character for the game
+* Mirrored character images for walking left vs right
+* Animated clock
+* Guard animate up and down
+* Make unicorn magically appear
+* Find helmet and wear it
+* Press 's' to search for unicorn
+* Cut up new smaller assets; maybe have multiple sizes of assets for different resolution screens
+* Choose your character when you start the game; make a video to show how to play
+* Stars are in the path and make you dizzy for 3 seconds.
+* You have 1 minute to make it to the end; goal is to get the gold coin at the end of the path
+* The knight guards the gold coin. you must defeat the knight!!
+* You have tools to destroy the knight; the knight has tools to destroy you
+    * shield; the knight has a sword, the shield can be used so the sword will go against the shield, not you
+    * sword; stabs and kills the knight
+    * hats; you put the hat over the knight's head and get behind him and get the coin
+    * crowns; throw it and bang the knight on the head; sneak up behind the knight and get the coin while he's in pain; kind of like a boomerrang
+    * helmet; helps to protect your head, and bangs the knight's head harder, and you have extra time to celebrate when you get the coin
+* the unicorn gives you extra time
+* you can only walk on the rainbow path because it's a maze
