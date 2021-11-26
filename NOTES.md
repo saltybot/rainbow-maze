@@ -23,3 +23,7 @@
     * helmet; helps to protect your head, and bangs the knight's head harder, and you have extra time to celebrate when you get the coin
 * the unicorn gives you extra time
 * you can only walk on the rainbow path because it's a maze
+* there are 8 levels
+
+## TODO
+* Draw more mazes for the different levels
